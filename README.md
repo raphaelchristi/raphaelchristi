@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on my Cripitografia diretory
 - 🤔 I’m looking for help with Data science
 - 💬 Ask me about Math
-- ⚡ Fun fact: I have a girlfriend
+
 
