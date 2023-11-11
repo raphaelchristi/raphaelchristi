@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **Power BI, Power Apps, PostgreSQL, Azure Cloud**
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEzZ3BxOWgxMW92MWsxdjNia2RieWNkbzU2emN4dHdiMDNuajF2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ue7Oh8WdVspgI/giphy.gif">
+
 - 👯 I’m looking to collaborate on [Criptografia](https://github.com/raphaelchristi/Criptografia)
 
 - 💬 Ask me about **Math**
