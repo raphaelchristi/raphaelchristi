@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelchristi&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelchristi" /> </p>
 
-- 🔭 I’m currently working on remodeling a analitics application **Manegement v2**
+- 🔭 I’m currently working on remodeling a analitics application **Management v2**
 
-- 🌱 I’m currently learning **Power BI, Power Apps, PostgreSQL, Azure Cloud**
+- 🌱 I’m currently learning **Power BI, Power Apps, PostgreSQL, Microsoft Azure**
 
 - 👯 I’m looking to collaborate on [Criptografia](https://github.com/raphaelchristi/Criptografia)
 
@@ -31,4 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelchristi&show_icons=true&locale=en" alt="raphaelchristi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelchristi&" alt="raphaelchristi" /></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raphaelchristi&theme=github-compact)](https://github.com/raphaelchristi/github-readme-activity-graph)
+
