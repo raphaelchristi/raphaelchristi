@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Criptografia](https://github.com/raphaelchristi/Criptografia)
 
-- 💬 Ask me about **Math**
+- 💬 Ask me about **Math and Data science**
 
 - 📫 How to reach me **raphaelvaldetaro@gmail.com**
 
