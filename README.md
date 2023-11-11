@@ -1,4 +1,4 @@
-[![MasterHead]](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Raphael Valdetaro</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
