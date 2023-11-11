@@ -6,13 +6,13 @@
 - 🔭 I’m currently working on remodeling a analitics application **Manegement v2**
 
 - 🌱 I’m currently learning **Power BI, Power Apps, PostgreSQL, Azure Cloud**
-
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEzZ3BxOWgxMW92MWsxdjNia2RieWNkbzU2emN4dHdiMDNuajF2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ue7Oh8WdVspgI/giphy.gif">
 - 👯 I’m looking to collaborate on [Criptografia](https://github.com/raphaelchristi/Criptografia)
 
 - 💬 Ask me about **Math**
 
 - 📫 How to reach me **raphaelvaldetaro@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEzZ3BxOWgxMW92MWsxdjNia2RieWNkbzU2emN4dHdiMDNuajF2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ue7Oh8WdVspgI/giphy.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raphael-christi-0a5a2a219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raphael-christi-0a5a2a219/" height="30" width="40" /></a>
