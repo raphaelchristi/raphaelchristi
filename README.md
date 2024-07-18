@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/eNCXpFdlRtroY/giphy.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Raphael Valdetaro</h1>
-<h3 align="center">A passionate Data Scientist from Brazil</h3>
+<h3 align="center">A passionate AI Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelchristi&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelchristi" /> </p>
 
