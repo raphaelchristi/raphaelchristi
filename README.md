@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on remodeling a analitics application **Management v2**
 
-- 🌱 I’m currently learning **Power BI, Power Apps, PostgreSQL, Microsoft Azure**
+- 🌱 I’m currently learning **Power BI, Langchain, Langflow, n8n, Crew AI**
 
 - 👯 I’m looking to collaborate on [Criptografia](https://github.com/raphaelchristi/Criptografia)
 
