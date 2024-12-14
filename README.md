@@ -5,7 +5,7 @@
 
 🔭 I'm currently working on StyleFlow, a colorimetry project using AI and computer vision
 
-🌱 I'm currently learning Power BI, Langchain, Langflow, n8n, Crew AI
+🌱 I'm currently learning Kong, Langfuse, FastAPI
 
 👯 I'm looking to collaborate on [tars](https://github.com/raphaelchristi/tars)
 
