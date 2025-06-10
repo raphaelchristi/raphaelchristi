@@ -7,7 +7,7 @@
 
 🌱 I'm currently learning k8s, Gitlab, FastAPI
 
-👯 I'm looking to collaborate on [tars](https://github.com/raphaelchristi/tars)
+👯 I'm looking to collaborate on [Claude Master](https://github.com/raphaelchristi/claude-master)
 
 💬 Ask me about Math and Generative AI
 
